@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Peter's codebook</title>
+    <description>Peter's codebook</description>
+    <link/>
+    <pubDate>2017-02-03</pubDate>
+    <item>
+      <title>YOUR_TITLE</title>
+      <link>/posts/your_title</link>
+      <pubDate>2017-02-03</pubDate>
+      <description/>
+    </item>
+  </channel>
+</rss>
